@@ -1,19 +1,19 @@
-from examples.file_1 import mentor1
-from examples.file_2 import mentor2
-from examples.file_3 import number_list
-from examples.file_4 import print_greeting
-import examples.file_5 as something
+from examples.file_1 import mentor1 as something_1
+from examples.file_2 import mentor2 as something_2
+from examples.file_3 import number_list as something_3
+from examples.file_4 import function_1 as something_4
+import examples.file_5 as something_5
 
 # Before you un-comment these print statements think about what you might see.
 
-# print(mentor1)
+# print(something_1)
 
-# print(mentor2)
+# print(something_2)
 
-# print(number_list)
+# print(something_3)
 
-# print(print_greeting)
-# print(print_greeting())
+# print(something_4)
+# print(something_4())
 
-# print(something)
+# print(something_5)
 # How might we use the variable `something` to invoke the functions imported from `file_5.py`?

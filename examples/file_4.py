@@ -1,2 +1,2 @@
-def print_greeting():
-    print('Hello There!')
+def function_1():
+    pass
