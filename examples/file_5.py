@@ -1,4 +1,4 @@
-def print_different_greeting():
+def print_greeting():
     print('How are you doing?')
 
 
