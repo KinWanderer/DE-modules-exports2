@@ -2,3 +2,5 @@
 # Print the greeting to your terminal
 
 # It should look something like "Good afternoon Simon Jackson!"
+
+print(greeting)
