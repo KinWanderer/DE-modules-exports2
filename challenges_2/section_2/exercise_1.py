@@ -3,6 +3,7 @@
 
 # PLEASE DO NOT MAKE CHANGES BELOW THIS LINE
 
+
 def calculate_product(num_list):
     product = math.prod(num_list)
     return product

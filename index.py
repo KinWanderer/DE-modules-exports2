@@ -13,9 +13,7 @@ import examples.file_5 as something_5
 # print(something_3)
 
 # print(something_4)
+
 # print(something_4())
 
 # print(something_5)
-
-# How might we use the variable `something` to invoke the functions
-# imported from `file_5.py`?
