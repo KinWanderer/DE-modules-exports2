@@ -1,4 +1,4 @@
-# Create a greeting for the mentor using the data imported from the nested files
+# Create a greeting variable for the mentor using the data imported from the nested files
 # Print the greeting to your terminal
 
 # It should look something like "Good afternoon Simon Jackson!"
