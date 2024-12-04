@@ -3,4 +3,6 @@
 
 #  Make sure you print only the name, not the whole dictionary!
 
+import data.file_1
+mentor_name = data.file_1.mentor['name']
 print(mentor_name)
